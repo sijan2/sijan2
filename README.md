@@ -47,7 +47,7 @@
 
  <a href="https://app.daily.dev/sijan" target="_blank">
 
- <img align="right" width ="300" height="300" src="https://github.com/sijan2/sijan2/blob/main/scan.png">
+ <img align="right" width ="400" height="350" src="https://github.com/sijan2/sijan2/blob/main/scan.png">
 
  </a>
 
