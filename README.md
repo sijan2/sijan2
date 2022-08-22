@@ -15,26 +15,28 @@
 
 #### 💬 Ask me about:
 
+🔸React Native <br>
+
+🔸Native Android Development<br>
+
 🔸Kotlin <br>
 
-🔸Tech Blogging <br>
+🔸Java<br>
+
+🔸TypeScript <br>
 
 🔸Microsoft Azure<br>
-
-🔸Android Development<br>
-
-🔸Java<br>
 
 🔸Designing<br>
 
 #### 🌻 I’m currently learning:
 
 
-🔸Node JS with ExpressJS<br>
+🔸Web 3 <br>
 
-🔸React Js <br>
+🔸React Js with typescript <br>
 
-🔸 Android Development<br>
+🔸Android Developmentwith jetpack compose <br>
 
 🔸BlockChain Technology<br>
 
@@ -58,13 +60,13 @@ Open Source especially React Projects that will benefit the world. <br>
 
 #### ⚡ Fun fact:
 
-I use "food" as a search keyword to test for internet connectivity 😜.
+The name Ubuntu means “I am because of you” 
 
 #### 📌Fav Quote:
 
-I do not fear computers but i fear lack of them.<br>
+A year from now you will wish you had started today.<br>
 
------Isaac Asimov
+-----Unknown
 
 
 #### 📫 How to reach me:
@@ -124,6 +126,8 @@ Waiting to connect with you!🙇‍♂️
   
 
   <img src="https://img.shields.io/badge/Python-234344?style=for-the-badge&logo=tailwind-css&logoColor=red">
+ 
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
   <img src="https://img.shields.io/badge/kotlin-403837?style=for-the-badge&logo=npm&logoColor=white">
 
