@@ -47,7 +47,7 @@
 
  <a href="https://app.daily.dev/sijan" target="_blank">
 
- <img align="right" width ="320" height="390" src="https://github.com/sijan2/sijan2/blob/main/scan.png">
+ <!--<img align="right" width ="320" height="390" src="https://github.com/sijan2/sijan2/blob/main/scan.png">  -->
 
  </a>
 
@@ -73,6 +73,7 @@ A year from now you will wish you had started today.<br>
 
 For all my Essential Links: Click [Here](https://linktr.ee/sijanmainali)!<br>
 
+<!--
 You can alternatively scan the QR Coded Image <br>
 
 <h3 align="right">
