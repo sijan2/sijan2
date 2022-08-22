@@ -6,8 +6,8 @@
 [![Github](https://img.shields.io/github/followers/sijan2?label=Follow&style=social)](https://github.com/sijan2)
 
  
-
-<a href="https://app.daily.dev/sijan"><img src="https://api.daily.dev/devcards/923100b0f7c5492f99d423610563243d.png?r=97b" width="400" align="right" alt="Sijan Mainali's Dev Card"/></a>
+[
+<a href="https://app.daily.dev/sijan"><img src="https://api.daily.dev/devcards/923100b0f7c5492f99d423610563243d.png?r=97b" width="400" align="right" alt="Sijan Mainali's Dev Card"/></a>](https://api.daily.dev/devcards/923100b0f7c5492f99d423610563243d.png?r=nhf)
 
 </div>
 
