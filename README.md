@@ -7,7 +7,7 @@
 
  
 [
-<a href="https://app.daily.dev/sijan"><img src="https://github.com/sijan2/sijan2/blob/master/devcard.svg" width="400" align="right" alt="Sijan Mainali's Dev Card"/></a>]
+<a href="https://app.daily.dev/sijan"><img src="https://github.com/sijan2/sijan2/blob/main/devcard.svg" width="400" align="right" alt="Sijan Mainali's Dev Card"/></a>]
 
 </div>
 
