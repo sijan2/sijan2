@@ -1,8 +1,3 @@
-<div align="right">
-
-<a href="https://app.daily.dev/sijan">
-  <img src="https://github.com/sijan2/sijan2/blob/main/devcard.svg" width="400" align="right" alt="Sijan Mainali's Dev Card"/>
-</a>
 
 <p align="left">
 
